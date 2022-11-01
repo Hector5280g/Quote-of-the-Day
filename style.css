@@ -1,0 +1,107 @@
+
+
+body {
+  background-color: lightgrey;
+  font-size: 18px;
+  font-family: FastFuriousFont;
+  padding: 2rem;
+}
+p{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color:cornsilk
+
+
+}
+header {
+  text-align: center;
+  margin: 3rem 0px;
+}
+
+
+img {
+  width: 50%;
+  border-radius: 1em;
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+.side-bar {
+  float: left;
+  width: 15%;
+  font-size: x-large;
+  color: azure;
+  font-family: monospace;
+}
+.side-bar-right{ 
+  float: right;
+  width: 21rem;           
+  height:10rem;
+ 
+
+}
+
+.main {
+  float: left;
+  width: 70%;
+  text-align: center;
+}
+
+.blog-post {
+  border-radius: 1rem;
+  height: 250px;
+  margin: 5rem;
+  padding: 4rem;
+}
+
+.blog-post > h1 {
+  color: #FFF;
+  margin-top: -1rem;
+  font-family: cursive;
+}
+
+.blog-post > p {
+  font-size: 72%
+}
+
+.family-photo {
+  width: 100%;
+}
+
+.purple {
+  background-color: rgb(151, 151, 151);
+}
+
+.red {
+  background-color: rgb(177, 127, 127);
+}
+
+.special-title {
+  background-color: rgb(189, 189, 189);
+  color: #FFF;
+  border-radius: 2rem;
+  height: 7rem;
+  width: 70%;
+  line-height: 4rem;
+  margin: auto;
+  font-size: 1.5rem;
+}
+
+#quote-title:hover {
+  background-color: rgb(0, 0, 0);
+}
+
+#quote-of-the-day {
+  margin: 2rem 0px;
+  font-size: 1.5rem;
+}
+
+#influencers {
+  margin-top: 3rem;
+}
+.gary{
+  width: 150px;
+} 
+
